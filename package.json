@@ -1,0 +1,18 @@
+{
+  "name": "projects-cli",
+  "version": "1.0.0",
+  "description": "Project Automation Tool",
+  "main": "bin/index.js",
+  "bin": {
+    "projects": "./bin/index.js"
+  },
+  "author": "Joel Rozen",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "chalk": "^4.1.0",
+    "minimist": "^1.2.5",
+    "shelljs": "^0.8.4",
+    "signale": "^1.4.0"
+  }
+}

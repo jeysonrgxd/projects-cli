@@ -1,0 +1,8 @@
+{
+  "projectsDir": "my/projects/directory",
+  "defaultOwner": "mygithubuser",
+  "github": {
+    "username": "mygithubuser",
+    "token": "abcd1234defg5678hijk0000"
+  }
+}
